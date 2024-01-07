@@ -45,7 +45,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/Nutlope/roomGPT"
+          href="https://github.com/trungvu222/MyRoomGPT"
           className="group"
           aria-label="TaxPal on GitHub"
         >
