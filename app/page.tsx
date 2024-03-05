@@ -12,7 +12,8 @@ export default function HomePage() {
         <a
           href="https://vercel.fyi/roomGPT"
           target="_blank"
-          rel="noreferrer"
+          //rel="noreferrer"
+          rel="noopener"
           className="border border-gray-700 rounded-lg py-2 px-4 text-gray-400 text-sm mb-5 transition duration-300 ease-in-out"
         >
           Clone and deploy your own with{" "}

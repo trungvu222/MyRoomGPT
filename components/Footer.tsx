@@ -8,7 +8,7 @@ export default function Footer() {
         <a
           href="https://replicate.com/"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener"
           className="font-bold hover:underline transition hover:text-gray-300 underline-offset-2"
         >
           Replicate,{" "}
@@ -16,7 +16,7 @@ export default function Footer() {
         <a
           href="https://www.bytescale.com/"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener"
           className="font-bold hover:underline hover:text-gray-300 transition underline-offset-2"
         >
           Bytescale,{" "}
@@ -25,7 +25,7 @@ export default function Footer() {
         <a
           href="https://vercel.com/"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener"
           className="font-bold hover:underline transition hover:text-gray-300 underline-offset-2"
         >
           Vercel.
